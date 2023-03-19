@@ -24,3 +24,10 @@
     color: deeppink;
     background-color: aqua;
 }
+.list {
+    list-style: none;
+   
+}
+.link {
+    text-decoration: none;
+}
