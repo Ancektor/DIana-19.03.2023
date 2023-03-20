@@ -1,23 +1,28 @@
 .title-header {
-    text-align: center;
-    
+    text-align: center;    
     color: aqua;
 }
 .header {
     
-    background-color: rgb(227, 66, 163);
+    background-color: deeppink;
 }
 .main {
-   
-    background-color: rgb(213, 104, 206);
+    border: 20px solid #0b0808;
+    background-color: deeppink;
+}
+.img {
+    border: 5px solid #ffff;
 }
 .video {
    border-image-width: 1500;
 }
 .footer {
-    background-color: rgb(36, 16, 16);
+    background-color: rgb(112, 45, 45);
     text-align: center;
     color: deeppink;
+}
+.footer-text {
+    color: aqua;
 }
 .two {
     text-align: center;
