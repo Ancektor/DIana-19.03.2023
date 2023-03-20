@@ -24,6 +24,12 @@
 .footer-text {
     color: aqua;
 }
+.footer-text:hover {
+    color: tomato;
+}
+.footer-text:focus {
+    color: tomato;
+}
 .two {
     text-align: center;
     color: deeppink;
@@ -35,4 +41,19 @@
 }
 .link {
     text-decoration: none;
+}
+
+
+
+
+
+.signature {
+    text-align: right;
+    color: blue;
+}
+.signature:hover {
+    color: tomato;
+}
+.signature:focus {
+    color: tomato;
 }
