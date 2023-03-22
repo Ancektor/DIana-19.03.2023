@@ -5,16 +5,16 @@
 .header {
     box-sizing: content-box;
     background-color: deeppink;
-    width: auto;
-    margin: 0px auto;
-    display: block;
+    margin: 0px ;
+    border: 10px solid #0b0808;
+    
 }
 .main {
-    display: block;
+    margin: 0px;
     box-sizing: content-box;
-    border: 20px solid #0b0808;
+    border: 10px solid #0b0808;
     background-color: deeppink;
-    margin: 0px auto;
+    
 }
 .img {
     border: 5px solid #ffff;
@@ -27,20 +27,27 @@
     background-color: rgb(112, 45, 45);
     text-align: center;
     color: deeppink;
+    border: 10px solid #0b0808;
 }
 .footer-text {
     color: aqua;
 }
 .footer-text:hover {
-    color: tomato;
+    color: #32CD32;
 }
 .footer-text:focus {
-    color: tomato;
+    color: #32CD32;
 }
 .two {
     text-align: center;
-    color: deeppink;
-    background-color: aqua;
+        color: aqua;
+}
+.two:hover {
+    color: #32CD32;
+}
+
+.twot:focus {
+    color: #32CD32;
 }
 .list {
     list-style: none;
